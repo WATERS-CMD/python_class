@@ -1,0 +1,9 @@
+
+.sent-messages{
+    float:right;
+    background-color: grey rgb(23,45,55, .3);
+    color:aqua;
+    font-size:20px;
+    font-weight:bold;
+    padding:5px;
+}
